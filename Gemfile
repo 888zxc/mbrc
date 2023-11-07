@@ -16,6 +16,8 @@ source "https://gems.ruby-china.com"
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 gem "github-pages"
+gem 'faraday-retry'
+
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
